@@ -1,0 +1,146 @@
+[
+    {
+        "Student_Id": 101,
+        "details": {
+            "Name": "Sona",
+            "Marks": {
+                "Hindi": 99,
+                "English": 98,
+                "Mathematics": 97,
+                "Science": 95,
+                "Social_Science": 96,
+                "Total Marks": 485,
+                "Percentage": 97.0,
+                "Grade": "A+"
+            }
+        }
+    },
+    {
+        "Student_Id": 102,
+        "details": {
+            "Name": "Bettuu..",
+            "Marks": {
+                "Hindi": 98,
+                "English": 87,
+                "Mathematics": 89,
+                "Science": 90,
+                "Social_Science": 99,
+                "Total Marks": 463,
+                "Percentage": 92.60000000000001,
+                "Grade": "A+"
+            }
+        }
+    },
+    {
+        "Student_Id": 103,
+        "details": {
+            "Name": "Deepika Kumari",
+            "Marks": {
+                "Hindi": 98,
+                "English": 78,
+                "Mathematics": 65,
+                "Science": 45,
+                "Social_Science": 65,
+                "Total Marks": 351,
+                "Percentage": 70.19999999999999,
+                "Grade": "A"
+            }
+        }
+    },
+    {
+        "Student_Id": 104,
+        "details": {
+            "Name": "hffhj",
+            "Marks": {
+                "Hindi": 87,
+                "English": 78,
+                "Mathematics": 77,
+                "Science": 64,
+                "Social_Science": 76,
+                "Total Marks": 382,
+                "Percentage": 76.4,
+                "Grade": "A"
+            }
+        }
+    },
+    {
+        "Student_Id": 105,
+        "details": {
+            "Name": "sukumar",
+            "Marks": {
+                "Hindi": 85,
+                "English": 95,
+                "Mathematics": 65,
+                "Science": 85,
+                "Social_Science": 75,
+                "Total Marks": 405,
+                "Percentage": 81.0,
+                "Grade": "A"
+            }
+        }
+    },
+    {
+        "Student_Id": 106,
+        "details": {
+            "Name": "Tanishka",
+            "Marks": {
+                "Hindi": 45,
+                "English": 65,
+                "Mathematics": 85,
+                "Science": 75,
+                "Social_Science": 70,
+                "Total Marks": 340,
+                "Percentage": 68.0,
+                "Grade": "B"
+            }
+        }
+    },
+    {
+        "Student_Id": 107,
+        "details": {
+            "Name": "sd",
+            "Marks": {
+                "Hindi": 78,
+                "English": 95,
+                "Mathematics": 85,
+                "Science": 14,
+                "Social_Science": 65,
+                "Total Marks": 337,
+                "Percentage": 67.4,
+                "Grade": "B"
+            }
+        }
+    },
+    {
+        "Student_Id": 108,
+        "details": {
+            "Name": "Rinju",
+            "Marks": {
+                "Hindi": 98,
+                "English": 89,
+                "Mathematics": 78,
+                "Science": 67,
+                "Social_Science": 87,
+                "Total Marks": 419,
+                "Percentage": 83.8,
+                "Grade": "A"
+            }
+        }
+    },
+    {
+        "Student_Id": 109,
+        "details": {
+            "Name": "ss",
+            "Marks": {
+                "Hindi": 90,
+                "English": 89,
+                "Mathematics": 76,
+                "Science": 45,
+                "Social_Science": 87,
+                "Total Marks": 387,
+                "Percentage": 77.4,
+                "Grade": "A"
+            }
+        }
+    }
+]
